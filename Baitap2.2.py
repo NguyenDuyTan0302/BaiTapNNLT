@@ -1,0 +1,6 @@
+a=float(input("a="))
+b=float(input("b="))
+print("tích 2 số =",a*b)
+print("tổng 2 số =",a+b)
+print("hiệu 2 số =",a-b)
+print("thương 2 số =",a/b)

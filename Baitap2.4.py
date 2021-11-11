@@ -1,0 +1,7 @@
+a=int(input("a="))
+b=int(input("b="))
+print("a lớn hơn bằng b", a>=b)
+print("a bé hơn bằng b", a<=b)
+print("a lớn hơn b", a>b)
+print("a bé hơn b", a<b)
+print("a khác b", a!=b)
