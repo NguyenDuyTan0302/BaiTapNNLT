@@ -1,2 +1,1 @@
-print("Ngày mai là một")
-print("Ngày mưa")
+print("Ngày mai là một\nngày mưa")
